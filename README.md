@@ -1,6 +1,7 @@
 
-<h1 align="center">Hi 👋, I'm Abdelhak Ajbouni</h1>
-<h3 align="center">I'm a full stack developer based in Tunis, Tunisia.</h3>
+<h1>Hi 👋, I'm Abdelhak Ajbouni</h1>
+<h3>I'm a full stack developer based in Tunis, Tunisia.</h3>
+<br/>
 
 - 👨‍💻 All of my projects are available at [https://abdelhak-ajbouni.github.io/](https://abdelhak-ajbouni.github.io/)
 
@@ -11,6 +12,8 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/abdelhak-ajbouni-8a9b21151/](https://www.linkedin.com/in/abdelhak-ajbouni-8a9b21151/)
 
 - ⚡ Fun fact **Stack Overflow jobs was the best job board for developers.**
+
+<br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
