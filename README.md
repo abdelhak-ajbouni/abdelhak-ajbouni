@@ -3,7 +3,7 @@
 <h3>I'm a full stack developer based in Tunis, Tunisia.</h3>
 <br/>
 
-- 👨‍💻 All of my projects are available at [https://abdelhak-ajbouni.github.io/](https://abdelhak-ajbouni.github.io/)
+- 👨‍💻 All of my projects are available at [https://abdelhak-ajbouni.vercel.app](https://abdelhak-ajbouni.vercel.app)
 
 - 💬 Ask me about **React, Expressjs, gRPC, Keycloak**
 
