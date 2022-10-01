@@ -1,11 +1,11 @@
 
 <h1>Hi 👋, I'm Abdelhak Ajbouni</h1>
-<h3>I'm a full stack developer based in Tunis, Tunisia.</h3>
+<h3>I'm a full stack Javascript developer based in Tunis, Tunisia.</h3>
 <br/>
 
 - 👨‍💻 All of my projects are available at [https://abdelhak-ajbouni.vercel.app](https://abdelhak-ajbouni.vercel.app)
 
-- 💬 Ask me about **React, Expressjs, gRPC, Keycloak**
+- 💬 Lets talk about **React, Node.js, gRPC, Keycloak, Typescript**
 
 - 📫 How to reach me **abdelhak.ajbouni@gmail.com**
 
