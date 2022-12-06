@@ -1,6 +1,6 @@
 
 <h1>Hi 👋, I'm Abdelhak Ajbouni</h1>
-<h3>I'm a full stack Javascript developer based in Tunis, Tunisia.</h3>
+<h3>I'm a full stack Javascript developer based in Luxembourg.</h3>
 <br/>
 
 - 👨‍💻 All of my projects are available at [https://abdelhak-ajbouni.vercel.app](https://abdelhak-ajbouni.vercel.app)
