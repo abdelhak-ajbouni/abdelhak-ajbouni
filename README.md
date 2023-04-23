@@ -3,13 +3,13 @@
 <h3>I'm a full stack Javascript developer based in Luxembourg.</h3>
 <br/>
 
-- 👨‍💻 All of my projects are available at [https://abdelhak-ajbouni.vercel.app](https://abdelhak-ajbouni.vercel.app)
+- 👨‍💻 All of my projects are available at [abdelhak-ajbouni.com](https://abdelhak-ajbouni.com)
 
-- 💬 Lets talk about **React, Node.js, gRPC, Keycloak, Typescript**
+- 💬 Lets talk about **React, Typescript, Node.js, gRPC**
 
 - 📫 How to reach me **abdelhak.ajbouni@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/abdelhak-ajbouni-8a9b21151/](https://www.linkedin.com/in/abdelhak-ajbouni-8a9b21151/)
+- 📄 Know about my experiences [linkedin.com/in/abdelhak-ajbouni](https://www.linkedin.com/in/abdelhak-ajbouni/)
 
 - ⚡ Fun fact **Stack Overflow jobs was the best job board for developers.**
 
