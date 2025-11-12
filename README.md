@@ -5,8 +5,6 @@
 
 - 👨‍💻 All of my projects are available at [abdelhak-ajbouni.com](https://abdelhak-ajbouni.com)
 
-- 💬 Lets talk about **React, Typescript, Node.js, gRPC**
-
 - 📫 How to reach me **abdelhak.ajbouni@gmail.com**
 
 - 📄 Know about my experiences [linkedin.com/in/abdelhak-ajbouni](https://www.linkedin.com/in/abdelhak-ajbouni/)
